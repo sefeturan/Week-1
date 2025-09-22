@@ -31,10 +31,11 @@ class filo:
                 self.planes.append(plane)
 
 
-filo1=filo()
+
 filo1=filo()
 filo1.add_filo(ucak1)
 filo1.show()
-our filo included (0, 0, 0)
+
+
 
 
